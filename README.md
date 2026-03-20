@@ -1,4 +1,4 @@
-⚖️ M.A | JUS IA EXPERIENCE — Auditoria Criminal de Elite
+⚖️ M.A | JUS IA EXPERIENCE — Auditoria de Elite
 
 O M.A | JUS IA EXPERIENCE é um ecossistema de auditoria forense avançado, desenvolvido para o Direito Penal e Processual Penal. Esta aplicação desktop combina o poder de síntese do Gemini 2.5 Flash com o rigor determinístico de Escudos Anti-Alucinação via Regex.
 
